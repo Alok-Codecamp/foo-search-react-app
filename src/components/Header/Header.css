@@ -1,0 +1,10 @@
+.header-container{
+    background-color:#23180D ;
+    line-height: 40px;
+}
+.header-container nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+
+}

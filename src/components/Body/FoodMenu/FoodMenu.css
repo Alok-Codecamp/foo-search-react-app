@@ -1,0 +1,9 @@
+.food-container{
+    margin-top: 80px;
+    border-right:1px solid gray ;
+}
+
+.food-image img{
+    width: 50%;
+    cursor:pointer
+}
